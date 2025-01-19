@@ -14,6 +14,5 @@ public class Main {
         System.out.println("My address: " + streetAddress);
         System.out.println("City: " + city);
         System.out.println("Zipcode: " + zipCode);
-
     }
 }
